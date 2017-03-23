@@ -2,6 +2,10 @@
   "name": "header_parser",
   "version": "0.0.0",
   "description": "",
+  "engines": {
+    "node":"4.7.3",
+    "npm": "2.15.11"
+  },
   "main": "app.js",
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
